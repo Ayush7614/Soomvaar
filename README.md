@@ -8,3 +8,9 @@
 ## 📌 Introduction
  
 Soomvaar is the collection of various codes implement in machine learning and machine learning algorithms with python on collab notebook with kaggle datasets 
+
+ ## 💥 Notebooks and Datasets 
+
+| Name  | Dataset  |  Notebook |
+|---|---|---|
+| Cats and Dogs Prediction | [Kaggle Dataset](https://www.kaggle.com/c/dogs-vs-cats) | [Notebook](https://github.com/Ayush7614/Soomvaar/blob/master/Cats%20and%20Dogs%20Prediction/Cats_and_Dogs_Classification.ipynb)  |
