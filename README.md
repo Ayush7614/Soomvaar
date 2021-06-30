@@ -13,4 +13,4 @@ Soomvaar is the collection of various codes implement in machine learning and ma
 
 | Name  | Dataset  |  Notebook |
 |---|---|---|
-| Cats and Dogs Prediction | [Kaggle Dataset](https://www.kaggle.com/c/dogs-vs-cats) | [Notebook](https://github.com/Ayush7614/Soomvaar/blob/master/Cats%20and%20Dogs%20Prediction/Cats_and_Dogs_Classification.ipynb)  |
+| Cats and Dogs Prediction | [Kaggle Dataset](https://www.kaggle.com/chetankv/dogs-cats-images) | [Notebook](https://github.com/kanakmi/Soomvaar/blob/main/Cats%20and%20Dogs%20Prediction/Cats_and_Dogs_Classification.ipynb)  |
