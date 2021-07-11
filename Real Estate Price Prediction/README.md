@@ -2,11 +2,11 @@
 
 **GOAL**
 
-The goal of this project is to analyse and predict purchases in the black friday sales from features as age group, gender, occupation, product category etc.
+The goal of this project is to predict house price from features as house age,number of convenience stores,  transaction date etc.
 
 **DATASET**
 
-Dataset can be downloaded from [here](https://www.kaggle.com/sdolezel/black-friday?select=train.csv).
+Dataset can be downloaded from [here](https://www.kaggle.com/quantbruce/real-estate-price-prediction).
 
 **WHAT I HAD DONE**
 - Step 1: Data Preprocessing & Exploration
@@ -33,15 +33,15 @@ Dataset can be downloaded from [here](https://www.kaggle.com/sdolezel/black-frid
 **Accuracy of different models used**
 - By using Linear Regression model 
  ```python
-    Accuracy achieved :  10.92
+    Accuracy achieved :  55.58
  ``` 
  - By using Decision Tree Regressor model 
  ```python
-    Accuracy achieved :  74.62
+    Accuracy achieved :  98.25
  ``` 
   - By using Random Forest Regressor model 
  ```python
-    Accuracy achieved :  73.80
+    Accuracy achieved :  93.59
  ```
 
 
