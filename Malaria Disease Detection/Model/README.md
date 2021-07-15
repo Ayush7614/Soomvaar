@@ -1,8 +1,7 @@
 **PROJECT TITLE - American Sign Language (ASL) Recognition**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Malaria%20Disease%20Detection/Images/project_viz.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Malaria%20Disease%20Detection/Images/project_viz.png" width = "500">
 
->
 
 **GOAL** - The aim of this project is to recognize whether the image of the human cell is infected with Malaria disease or not.
 
