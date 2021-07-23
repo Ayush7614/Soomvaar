@@ -1,6 +1,6 @@
 **PROJECT TITLE - Solar Eclipse Classification**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Solar%20Eclipse%20Classification/Images/project_viz1.png" width="400">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Solar%20Eclipse%20Classification/Images/project_viz1.png" width="400">
 
 **GOAL** - The aim of this project is to classify among the main types of Solar eclipses, which are : P = Partial Eclipse, A = Annular Eclipse, T = Total Eclipse, H = Hybrid or Annular/Total Eclipse.
 
@@ -25,11 +25,11 @@
 - Converting the object data types into numeric data types
 - Visualization of the independent features
 - Heatmap of the correlation matrix
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Solar%20Eclipse%20Classification/Images/heatmap.png" width="400">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Solar%20Eclipse%20Classification/Images/heatmap.png" width="400">
 
 - Performing Feature Scaling
 - Visualization of the Target feature(Eclipse Type)
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Solar%20Eclipse%20Classification/Images/target_analysis.png" width="300">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Solar%20Eclipse%20Classification/Images/target_analysis.png" width="300">
 
 - Splitting the data
 - Using Logistic Regression
