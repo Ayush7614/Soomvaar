@@ -1,0 +1,45 @@
+<p>
+<head>
+<style>
+  h1 {font-size: 50px;}
+  h1 {text-align: center;}
+  h1 {font-family: "Garamond";}
+  h1 {color: green}
+  h2 {font-family: "Garamond"; font-size: 30px; font-weight: bold;}
+  label {font-size: 30px; font-weight: 400;}
+  label {font-family: "Garamond";}
+  input {font-size: 30px;}
+  input {font-family: "Garamond";}
+  button {text-align: center;} 
+  button {font-size: 25px;}
+  button {font-family: "Garamond";}
+  .backgroundImage {
+   background-image: url("https://jooinn.com/images/white-flower-background-5.jpg");
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   }
+</style>
+</head>
+</p>  
+
+<div class="backgroundImage"/>
+
+<h1>SMART IRRIGATION SYSTEM</h1>
+  
+<center><label>Soil-based Smart Irrigation Systems use local soil moisture data drawn from sensors in the ground to support informed decisions about watering schedules. Users can configure these systems to manage irrigation on demand, for example, when a particular land area is too dry and starting an irrigation routine or to stop irrigation when a particular saturation point is met because a soil moisture level has been reached. Controlling these two set points reduces the amount of water used by linking it to the moisture level needed in the soil for a particular crop. These systems conserve water and thus help in sustainable development. </label></center><br><br><br>
+
+<label>This special Smart Irrigation System is built using Machine Learning Algorithm-Random Forest, is '100%' accurate and takes into account surrounding temperature for predictions as well. Just enter the following:</label><br><br><br>
+  
+<form action="{{ url_for("green_hacks")}}" method="POST">
+  
+<label for="mc">Moisture Content (in lb/cubic feet):</label>
+<input id="mc" name="m_c" type="text" placeholder="add moisture content" /><br><br><br>
+  
+<label for="t">Temperature (in Celsius):</label>
+<input id="t" name="temp" type="text" placeholder="add temperature" /><br><br><br><br>
+            
+<center><button type="submit">Pump On/Off?</button></form></center>
+
+<center><h2>{{output}}</h2></div></center>
