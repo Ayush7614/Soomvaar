@@ -1,18 +1,18 @@
-**PROJECT TITLE - Human Activity Recognition using Smartphones**
+**PROJECT TITLE - Human Activity Recognition**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/project_viz.png"  width="800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/project_viz.png"  width="800">
 
 
 
 **GOAL** - The aim of this project is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying using data recorded by multiple smartphone sensors.
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/data_imbalance_plot.png"  width="400">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/data_imbalance_plot.png"  width="400">
 
 
 
 **DATASET INFO** = This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually. 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/feature_dist30_40.png"  width="400">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/feature_dist30_40.png"  width="400">
 
 
 
@@ -62,7 +62,7 @@
  = Saving the model
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/tSNE_final.png"  width="400">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/tSNE_final.png"  width="400">
 
 
 **MODELS USED**
@@ -81,34 +81,34 @@
 
     *Accuracy - 95.52%*
     
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/lg_matrix.png"  width="400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/lg_matrix.png"  width="400">
     
     
 - **Linear SVC**
 - 
      *Accuracy - 96.71%*
      
-     <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/svc_matrix.png"  width="400">
+     <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/svc_matrix.png"  width="400">
      
      
 - **DEcision Trees**
 - 
      *Accuracy - 86.46%*
      
-     <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/dt_matrix.png"  width="400">
+     <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/dt_matrix.png"  width="400">
      
  
 - **Artificial Neural Network(ANN)*
 - 
      *Accuracy - 85.00%*
      
-     <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/ann_matrix.png"  width="400">
+     <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/ann_matrix.png"  width="400">
      
      
  **Therefore we can conclude that the Linear SVC model outperforms all the other model approaches with a accuracy of 96.71%**
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/StaticvsMoving_plot.png"  width="500">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/StaticvsMoving_plot.png"  width="500">
 
 
 
@@ -126,7 +126,7 @@
 - scikit learn
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Human%20Activity%20Recognition%20using%20Smartphones/Images/gyroscopic.png"  width="400">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Human%20Activity%20Recognition/Images/gyroscopic.png"  width="400">
 
 
 **Conclusion**
