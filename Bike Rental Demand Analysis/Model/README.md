@@ -1,6 +1,6 @@
 **PROJECT TITLE - Bike Rental Demand Analysis**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Bike%20Rental%20Demand%20Analysis/Images/project_viz.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Bike%20Rental%20Demand%20Analysis/Images/project_viz.png">
 
 
 **GOAL** - The aim of the project is to make a forecast of the demand in Bike Rental Services. The dataset contains 2 years data different features that are responsible for fluctuations in the customer ride request demand for training the model. This project predicts the upcoming nature of the customer request demand.
