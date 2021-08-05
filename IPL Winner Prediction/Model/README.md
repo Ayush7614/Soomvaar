@@ -1,6 +1,6 @@
 **PROJECT TITLE - IPL Winner Prediction**
         
-<img src = https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/IPL%20Winner%20Prediction/Images/project_viz.png width = '500'>
+<img src = https://github.com/Soumayan-pal01/Soomvaar/blob/main/IPL%20Winner%20Prediction/Images/project_viz.png width = '500'>
 
 
 **GOAL** - The aim of this project is to perform analysis of the IPL data and predict the winner of the IPL matches.
@@ -49,7 +49,7 @@
 - Visualization of the predicted winners
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/IPL%20Winner%20Prediction/Images/viz1.png" width = "800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/IPL%20Winner%20Prediction/Images/viz1.png" width = "800">
 
 
 **MODELS USED**
@@ -62,7 +62,7 @@
 - SVMs - *A support vector machine (SVM) is machine learning algorithm that analyzes data for classification and regression analysis. SVM is a supervised learning method that looks at data and sorts it into one of two categories. An SVM outputs a map of the sorted data with the margins between the two as far apart as possible.*
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/IPL%20Winner%20Prediction/Images/viz2.png" width = "800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/IPL%20Winner%20Prediction/Images/viz2.png" width = "800">
 
 **LIBRARIES NEEDED**
 - numpy
@@ -76,7 +76,7 @@
 - pickle
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/IPL%20Winner%20Prediction/Images/viz3.png" width = "800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/IPL%20Winner%20Prediction/Images/viz3.png" width = "800">
 
 
 **Comparing the models**
@@ -126,7 +126,7 @@
      - *Test Accuracy: 0.6639344262295082* 
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/IPL%20Winner%20Prediction/Images/viz4.png" width = "800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/IPL%20Winner%20Prediction/Images/viz4.png" width = "800">
 
 
 
@@ -134,7 +134,7 @@
 **Visualization of the Predicted Winners in IPL matches**
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/IPL%20Winner%20Prediction/Images/viz5.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/IPL%20Winner%20Prediction/Images/viz5.png">
 
 
 **Conclusion**
