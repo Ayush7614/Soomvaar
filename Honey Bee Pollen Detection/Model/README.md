@@ -30,7 +30,7 @@
 - Classification report
 - Making predictions on the testing Images
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Honey%20Bee%20Pollen%20Detection/Images/corr.png"  width="300">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Honey%20Bee%20Pollen%20Detection/Images/corr.png"  width="300">
 
 
 **MODELS USED**
@@ -38,7 +38,7 @@
 - **Convolutional Neural Network** - *A feed forward deep learning neural network designed for processing structured arrays of data such as images. Convolutional neural networks are very good at picking up on patterns in the input image, such as lines, gradients, circles, or even eyes and faces. It is this property that makes convolutional neural networks so powerful for computer vision. Unlike earlier computer vision algorithms, convolutional neural networks can operate directly on a raw image and do not need any preprocessing.*
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Honey%20Bee%20Pollen%20Detection/Images/train_greyscale.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Honey%20Bee%20Pollen%20Detection/Images/train_greyscale.png">
 
 
 **LIBRARIES NEEDED**
@@ -60,9 +60,9 @@
 **CNN model results**
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Honey%20Bee%20Pollen%20Detection/Images/classif.png"  width="300">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Honey%20Bee%20Pollen%20Detection/Images/classif.png"  width="300">
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Honey%20Bee%20Pollen%20Detection/Images/predictions.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Honey%20Bee%20Pollen%20Detection/Images/predictions.png">
 
 
 
