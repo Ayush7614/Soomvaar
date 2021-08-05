@@ -1,12 +1,12 @@
 ## PROJECT TITLE - Honey Bee Pollen Detection
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Honey%20Bee%20Pollen%20Detection/Images/project_viz.png"  width="500">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Honey%20Bee%20Pollen%20Detection/Images/project_viz.png"  width="500">
 
 
 **GOAL** - The aim of this project is to classify the images of the bees to detect whether they are carrying pollen grains or not.
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Honey%20Bee%20Pollen%20Detection/Images/train.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Honey%20Bee%20Pollen%20Detection/Images/train.png">
 
 
 **WHAT HAVE I DONE**
