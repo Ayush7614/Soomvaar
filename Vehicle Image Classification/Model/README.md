@@ -1,6 +1,6 @@
 **PROJECT TITLE - Vehicle Image Classification**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Vehicle%20Image%20Classification/Images/project_viz.png"  width="400">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Vehicle%20Image%20Classification/Images/project_viz.png"  width="400">
 
 
 **GOAL** - The aim of this project is to classify a vehicle image which type of vehicle it is.First we will try to visualize the training images to understand how to perform this multiclass image classification. Then we will use Neural Network approaches: MLP and CNN, to train the model and finally compare the validation accuracy of both the models.The dataset contain 7 classes of vehicles.
@@ -28,7 +28,7 @@
 
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Vehicle%20Image%20Classification/Images/disp.png" >
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Vehicle%20Image%20Classification/Images/disp.png" >
 
 
 **MODELS USED**
@@ -60,9 +60,9 @@
     -  *After training the MLP model we get a Training Accuracy of 87.71% and a Validation Accuracy of 74.29%*
     -  Inference -  Since the validation accuracy is a bit more less with respect the training accuracy than normal cases, we can say that the model might have been a little overfitted on the training set.. 
     
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Vehicle%20Image%20Classification/Images/mlp_acc.png" width = "400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Vehicle%20Image%20Classification/Images/mlp_acc.png" width = "400">
     
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Vehicle%20Image%20Classification/Images/mlp_loss.png" width = "400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Vehicle%20Image%20Classification/Images/mlp_loss.png" width = "400">
     
     
 #### Multi layer perceptron network is not considered to be very efficient over image data. Convolutional neural networks are considered to be more efficient since they also take into consideration, the pixels with their spatial structure and hence perform better than MLP networks. Therefore now we will try this project with CNN approach.
@@ -71,9 +71,9 @@
 
     - *After training the CNN model we get a Training Accuracy of 95.00% and a Validation Accuracy of 87.12%, which shows that the CNN model has gained a much higher precision both in training and validation cases than the MLP model.*
 
-     <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Vehicle%20Image%20Classification/Images/cnn_acc.png" width = "400">
+     <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Vehicle%20Image%20Classification/Images/cnn_acc.png" width = "400">
     
-     <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Vehicle%20Image%20Classification/Images/cnn_loss.png" width = "400">
+     <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Vehicle%20Image%20Classification/Images/cnn_loss.png" width = "400">
     
 
 
