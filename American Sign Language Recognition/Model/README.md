@@ -1,8 +1,7 @@
-**PROJECT TITLE - American Sign Language (ASL) Recognition**
+**PROJECT TITLE - American Sign Language Recognition**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/American%20Sign%20Language%20(ASL)%20Recognition/Images/project_viz.png"  width="800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/American%20Sign%20Language%20Recognition/Images/project_viz.png"  width="800">
 
->
 
 **GOAL** - he aim of this project is to recognize what the person is trying to convey using different hand gestures. The dataset contains 29 classes which comprises of A to Z alphabets, nothing, space and delete hand gestures.
 
@@ -39,7 +38,7 @@
 - Confusion Matrix
 - Classification report of the CNN model
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/American%20Sign%20Language%20(ASL)%20Recognition/Images/cnn_matrix.png"  width="300">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/American%20Sign%20Language%20Recognition/Images/cnn_matrix.png"  width="300">
 
 
 **MODELS USED**
@@ -50,7 +49,7 @@
 
 **CNN model results**
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/American%20Sign%20Language%20(ASL)%20Recognition/Images/cnn_results.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/American%20Sign%20Language%20Recognition/Images/cnn_results.png">
 
 **LIBRARIES NEEDED**
 
@@ -74,7 +73,7 @@
     -  *After training and testing the MLP model we can conclude that it reaches a training accuracy of 91.99% and validation accuracy of 68.28%.*
     -  Inference -  Since the validation accuracy is much less than the training accuracy we can say that the model has been overfitted on the training set. 
     
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/American%20Sign%20Language%20(ASL)%20Recognition/Images/MLP_plot.png" width = "400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/American%20Sign%20Language%20Recognition/Images/MLP_plot.png" width = "400">
     
 ### Multi layer perceptron network is not considered to be very efficient over image data. Convolutional neural networks are considered to be more efficient since they also take into consideration, the pixels with their spatial structure and hence perform better than MLP networks. Therefore now we will try this project with CNN approach.
 
@@ -83,7 +82,7 @@
     - *After training and testing the CNN model we can conclude that it reaches a training accuracy of 99.43% and validation accuracy of 99.78% which shows that the CNN model has gained a very high precision.*
 
      
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/American%20Sign%20Language%20(ASL)%20Recognition/Images/cnn_plot.png" width = "400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/American%20Sign%20Language%20Recognition/Images/cnn_plot.png" width = "400">
     
 ### Therefore we can conclude that the CNN model has served our purpose well and successfully recognizes the American Sign Language images with their proper labels.
 
