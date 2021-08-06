@@ -1,6 +1,6 @@
 **PROJECT TITLE - Gold Price Prediction**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Gold%20Price%20Prediction/Images/project_viz.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Gold%20Price%20Prediction/Images/project_viz.png">
 
 **Dataset**  -   https://www.kaggle.com/shikhnu/gold-price
 
@@ -31,7 +31,7 @@
 - Saving the predictions
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Gold%20Price%20Prediction/Images/plot1.png" width = "800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Gold%20Price%20Prediction/Images/plot1.png" width = "800">
 
 
 **MODELS USED**
@@ -56,7 +56,7 @@
 - xgboost
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Gold%20Price%20Prediction/Images/plot2.png" width = "800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Gold%20Price%20Prediction/Images/plot2.png" width = "800">
 
 
 **Comparing the models**
@@ -96,7 +96,7 @@
     - *RMSE: 624.9156*
 
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/Gold%20Price%20Prediction/Images/arima.png" width = "800">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/Gold%20Price%20Prediction/Images/arima.png" width = "800">
 
 
 **Conclusion**
