@@ -1,15 +1,4 @@
-# Github Automatic FOLLOW bot
 
-
-# Author: Chaudhary Hamdan
-# Personal Portfolio Website: https://chaudharyhamdan.me/
-# Resume: https://drive.google.com/file/d/1Vx_foSFBrgjj_zRTiNVRGxUY43O8-JXT/view
-# Linkedin: https://www.linkedin.com/in/chaudhary-hamdan-34ab5b1a6/
-# Github link : https://github.com/hamdan-codes
-
-
-# Inspired from: https://github.com/andrewsyc/github-follow-bot
-# And Coding Ninjas Instructor for an amazing learning experience: Nidhi Agarwal Ma'am (https://www.linkedin.com/in/nidhi-agarwal-704bb05a/)
 
 # Importing libraries
 from selenium import webdriver  # Tool for automationh
