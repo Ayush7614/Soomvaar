@@ -1,6 +1,6 @@
 **PROJECT TITLE - English Alphabet Classification**
         
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/English%20Alphabet%20Classification/Images/project_viz.png"  width="500">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/English%20Alphabet%20Classification/Images/project_viz.png"  width="500">
 
 
 **GOAL** - The aim of this project is to recognize the computerised generated images of the English apphabets. The dataset contains 26 classes which comprises of a to z alphabets, each class containing 100 images.
@@ -30,7 +30,7 @@
 - Plotting the loss and validation loss
 - Saving the CNN model
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/English%20Alphabet%20Classification/Images/viz1.png"  width="600">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/English%20Alphabet%20Classification/Images/viz1.png"  width="600">
 
 
 **MODELS USED**
@@ -41,7 +41,7 @@
 
 **CNN model results**
 
-<img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/English%20Alphabet%20Classification/Images/viz2.png">
+<img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/English%20Alphabet%20Classification/Images/viz2.png">
 
 **LIBRARIES NEEDED**
 
@@ -66,9 +66,9 @@
     -  Inference -  Since the validation accuracy and the training accuracy is my much less, we can say that the MLP model is not the right choice for this type of multiclass classification.
  
     
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/English%20Alphabet%20Classification/Images/mlp_acc.png" width = "400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/English%20Alphabet%20Classification/Images/mlp_acc.png" width = "400">
     
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/English%20Alphabet%20Classification/Images/mlp_loss.png" width = "400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/English%20Alphabet%20Classification/Images/mlp_loss.png" width = "400">
     
     
 ### Multi layer perceptron network is not considered to be very efficient over image data. Convolutional neural networks are considered to be more efficient since they also take into consideration, the pixels with their spatial structure and hence perform better than MLP networks. Therefore now we will try this project with CNN approach.
@@ -78,9 +78,9 @@
     - *After training the CNN model we get a training accuracy of 98.80% and a validation accuracy of 92.69% after 50 epochs*
 
      
-     <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/English%20Alphabet%20Classification/Images/cnn_acc.png" width = "400">
+     <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/English%20Alphabet%20Classification/Images/cnn_acc.png" width = "400">
     
-    <img src = "https://github.com/Soumayan-pal01/ML-ProjectKart/blob/main/English%20Alphabet%20Classification/Images/cnn_loss.png" width = "400">
+    <img src = "https://github.com/Soumayan-pal01/Soomvaar/blob/main/English%20Alphabet%20Classification/Images/cnn_loss.png" width = "400">
     
     
 ### Therefore we can conclude that the CNN model has served our purpose well and successfully recognizes the English alphabet images with their proper labels.
