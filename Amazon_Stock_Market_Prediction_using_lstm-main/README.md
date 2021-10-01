@@ -12,8 +12,8 @@
   - Test Set
 
  <h4> 
-  You have to train your model on Training set, It consists of many Share price of 5 years of Amazon.
-  You have to predict you trained model on test Data.
+  You have to train your model on Training set, It consists of Previous Share price of 5 years of Amazon.
+  You have to Use your trained model to Predict the outcome on test Data.
 </h4>
   
   
@@ -28,7 +28,6 @@
  - Dense
  - LSTM
  - Dropout
- - 
 
 <h1> WHAT I HAVE DONE </h1>
 
