@@ -1,5 +1,9 @@
 # Soomvaar
 
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Soomvaar/blob/main/images/screenshot-hacktoberfest.digitalocean.com-2021.10.02-02_32_15.png" />
+    </a>
+
  <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Soomvaar/blob/master/images/Octa.png" width=400px, height=400px 
  </a> 
