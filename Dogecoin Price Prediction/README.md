@@ -1,5 +1,5 @@
 # **Dogecoin Price Prediction**
-
+Dogecoin is a cryptocurrency created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system as a joke, making fun of the wild speculation in cryptocurrencies at the time. Despite its satirical nature, some consider it a legitimate investment prospect.
 
 
 
