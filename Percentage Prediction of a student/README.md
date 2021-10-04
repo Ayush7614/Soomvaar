@@ -10,10 +10,6 @@ The dataset is about the correspondance between the number of hours student has 
 - seaborn
 - sklearn
 
-**DATASET**
-
-https://www.kaggle.com/devashish0507/big-mart-sales-prediction
-
 **INTRODUCTION**
 
 In this ML work we predict the percentage of an student based on the number of study hours. Also obtain a heat map and
