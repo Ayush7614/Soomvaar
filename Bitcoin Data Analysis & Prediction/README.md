@@ -1,10 +1,8 @@
-**Bitcoin Data Analysis & Prediction**
+# **Bitcoin Data Analysis & Prediction**
 
 Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.
 -  Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network.
 -   Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part. 
-
-
 
 **GOAL**
 
@@ -21,8 +19,6 @@ Dataset can be downloaded from [here](https://www.kaggle.com/sudalairajkumar/cry
 - Step 4: Performance Evaluation
 
 
-
-
 **LIBRARIES NEEDED**
 - pandas
 - numpy
@@ -34,6 +30,13 @@ Dataset can be downloaded from [here](https://www.kaggle.com/sudalairajkumar/cry
  ```python
     Accuracy achieved :  99.94
  ``` 
+**Conclusion drawn**
+Conclusion Drawn through analysis & prediction:
+
+- HIGH of BITCOIN went up after a certain duration and we can also observe a steep in it's HIGH as well as LOW.
+- High and low were constant.
+- We can also observe steep in OPEN and CLOSE of BITCOIN.
+- By using linear regression model, we got an accuracy of 99.94 % which is really a good accuracy.
 
 **Author** 
 
